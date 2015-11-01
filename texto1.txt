@@ -2,3 +2,5 @@ cambio a texto
 cambio saltandose  preparacion
 nueva entrada
 entrada para rama hotfix
+
+1.2 nuevo cambio antes de hacer comit desde capture local
