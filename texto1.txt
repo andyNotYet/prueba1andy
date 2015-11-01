@@ -5,3 +5,5 @@ entrada para rama hotfix
 
 1.2 nuevo cambio antes de hacer comit desde capture local
 1.3 otra entrada
+
+2.1 entrada desde windows7 virtual
